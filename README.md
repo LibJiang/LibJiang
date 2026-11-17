@@ -113,6 +113,26 @@ flowchart LR
 [![Stars](https://img.shields.io/github/stars/LibJiang?affiliations=OWNER&label=Stars&style=flat-square&color=00A86B)](https://github.com/LibJiang?tab=stars)
 [![Last Commit](https://img.shields.io/github/last-commit/LibJiang/LibJiang?label=Profile%20Updated&style=flat-square&color=00A86B)](https://github.com/LibJiang/LibJiang/commits)
 
+### 过去一年的 3D 参与度地形
+
+<div align="center">
+  <a href="https://github.com/LibJiang?tab=overview">
+    <img src="https://raw.githubusercontent.com/LibJiang/LibJiang/main/profile-3d-contrib/profile-green-animate.svg" width="88%" alt="3D contribution calendar, rebuilt daily by GitHub Actions" />
+  </a>
+</div>
+
+把一年的提交摊成一座等距地形：柱子越高，那天在键盘前坐得越久。
+这张图由 GitHub Actions **每天自动重建**，不用手改 —— 我多写一行代码，它就自己长高一格。
+
+<!--
+  可选：夜间配色方案（想看星空版就把上面 img 的 src 换成下面这个文件名）
+  profile-3d-contrib/profile-night-rainbow-animate.svg
+
+  可选：静态版（不想动画时）
+  profile-3d-contrib/profile-green.svg
+-->
+
+
 <!--
   可选：等仓库多起来以后，取消下面两段的注释即可启用贡献图卡片。
   注意 github-readme-stats 在国内访问可能较慢，也可以像 never-die-cold 那样用 Actions 自建。
